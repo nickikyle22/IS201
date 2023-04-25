@@ -1,0 +1,38 @@
+h1{
+    font-size:xx-large;
+}
+
+h2{
+    color: rgb(121, 19, 19);
+}
+ol{
+    font-weight: bold;
+    font-style: oblique;
+}
+body{
+    background-color: whitesmoke;
+}
+
+ul{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    color: rgb(15, 99, 233);
+}
+
+.picture{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+
+.video{
+
+    width: 53%;
+
+    border-style: solid;
+    border-color: blue;
+}
+
+.AboutMe{
+    text-align: center;
+}
